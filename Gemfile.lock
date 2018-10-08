@@ -1,7 +1,7 @@
 PATH
   remote: /home/wrzasa/nauka/fast-tcpn
   specs:
-    fast-tcpn (0.0.2.pre1)
+    fast-tcpn (0.0.3.pre1)
       docile (~> 1.1)
 
 PATH
@@ -32,4 +32,4 @@ DEPENDENCIES
   rbsim!
 
 BUNDLED WITH
-   1.13.6
+   1.16.2
